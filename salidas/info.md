@@ -1,0 +1,1 @@
+Carpeta que guarda los archivos de texto de la tabla de multiplicar
